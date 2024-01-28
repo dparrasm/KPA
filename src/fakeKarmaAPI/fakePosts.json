@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "postId": "post1",
+      "author": "john.doe@example.com",
+      "karmaPoints": 50,
+      "replies": [],
+      "likes": [],
+      "warnings": ["Spamming", "ManipulationOfKarmaPoints", "IrrelevantContent"],
+      "content": "In venenatis velit ac consequat rhoncus. Ut mollis diam vel justo hendrerit feugiat. Morbi viverra quis turpis ac venenatis. Cras magna sapien, ornare vitae commodo sed, mattis eget nunc. Sed sapien nisi, venenatis at vestibulum a, consequat convallis nisi. Aliquam consequat lacinia dui quis viverra. Donec suscipit, nibh ac bibendum efficitur, urna dui cursus quam, quis facilisis magna ipsum eget velit. Proin vestibulum dolor ante, vel semper ipsum mattis non. Cras consectetur, ligula sed lobortis facilisis, massa nisl posuere arcu, vitae rhoncus orci erat ut urna. In vitae efficitur nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.\n\nAenean lacinia ex vel lectus rutrum fermentum. Ut quis augue ut arcu tristique lobortis in nec sapien. Orci varius natoque penatibus et magnis dis parturient montes."
+    },
+    {
+      "postId": "post2",
+      "author": "alice.smith@example.com",
+      "karmaPoints": 40,
+      "replies": [],
+      "likes": [],
+      "warnings": ["IrrelevantContent"],
+      "content": "In venenatis velit ac consequat rhoncus. Ut mollis diam vel justo hendrerit feugiat. Morbi viverra quis turpis ac venenatis. Cras magna sapien, ornare vitae commodo sed, mattis eget nunc. Sed sapien nisi, venenatis at vestibulum a, consequat convallis nisi. Aliquam consequat lacinia dui quis viverra. Donec suscipit, nibh ac bibendum efficitur, urna dui cursus quam, quis facilisis magna ipsum eget velit. Proin vestibulum dolor ante, vel semper ipsum mattis non. Cras consectetur, ligula sed lobortis facilisis, massa nisl posuere arcu, vitae rhoncus orci erat ut urna. In vitae efficitur nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.\n\nAenean lacinia ex vel lectus rutrum fermentum. Ut quis augue ut arcu tristique lobortis in nec sapien. Orci varius natoque penatibus et magnis dis parturient montes."
+    },
+    {
+      "postId": "post3",
+      "author": "john.doe@example.com",
+      "karmaPoints": 35,
+      "replies": [],
+      "likes": [],
+      "warnings": ["IrrelevantContent"],
+      "content": "In venenatis velit ac consequat rhoncus. Ut mollis diam vel justo hendrerit feugiat. Morbi viverra quis turpis ac venenatis. Cras magna sapien, ornare vitae commodo sed, mattis eget nunc. Sed sapien nisi, venenatis at vestibulum a, consequat convallis nisi. Aliquam consequat lacinia dui quis viverra. Donec suscipit, nibh ac bibendum efficitur, urna dui cursus quam, quis facilisis magna ipsum eget velit. Proin vestibulum dolor ante, vel semper ipsum mattis non. Cras consectetur, ligula sed lobortis facilisis, massa nisl posuere arcu, vitae rhoncus orci erat ut urna. In vitae efficitur nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.\n\nAenean lacinia ex vel lectus rutrum fermentum. Ut quis augue ut arcu tristique lobortis in nec sapien. Orci varius natoque penatibus et magnis dis parturient montes."
+    },
+    {
+      "postId": "post4",
+      "author": "alice.smith@example.com",
+      "karmaPoints": 45,
+      "replies": [],
+      "likes": [],
+      "warnings": ["DuplicatePost"],
+      "content": "In venenatis velit ac consequat rhoncus. Ut mollis diam vel justo hendrerit feugiat. Morbi viverra quis turpis ac venenatis. Cras magna sapien, ornare vitae commodo sed, mattis eget nunc. Sed sapien nisi, venenatis at vestibulum a, consequat convallis nisi. Aliquam consequat lacinia dui quis viverra. Donec suscipit, nibh ac bibendum efficitur, urna dui cursus quam, quis facilisis magna ipsum eget velit. Proin vestibulum dolor ante, vel semper ipsum mattis non. Cras consectetur, ligula sed lobortis facilisis, massa nisl posuere arcu, vitae rhoncus orci erat ut urna. In vitae efficitur nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.\n\nAenean lacinia ex vel lectus rutrum fermentum. Ut quis augue ut arcu tristique lobortis in nec sapien. Orci varius natoque penatibus et magnis dis parturient montes."
+    }
+  ]
+}

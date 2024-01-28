@@ -1,0 +1,19 @@
+{
+    "users": [
+      {
+        "id": "user1",
+        "name": "John",
+        "surname": "Doe",
+        "email": "john.doe@example.com",
+        "karmaPoints": 150
+      },
+      {
+        "id": "user2",
+        "name": "Alice",
+        "surname": "Smith",
+        "email": "alice.smith@example.com",
+        "karmaPoints": 130
+      }
+    ]
+  }
+  

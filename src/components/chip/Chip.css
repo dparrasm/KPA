@@ -1,0 +1,24 @@
+.chip {
+    display: flex;
+    gap: 4px;
+    padding: 5px;
+    color: white;
+    border-radius: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.chip__text {
+    padding-left: 10px;
+}
+
+.chip__icon--close {
+    font-size: 8px;
+    background: #ffb6b6;
+    padding: 7px;
+    border-radius: 25px;
+    color: white;
+}

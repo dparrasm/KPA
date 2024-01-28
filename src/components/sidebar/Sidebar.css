@@ -1,0 +1,38 @@
+.sidebar {
+    height: 250px;
+    position: sticky;
+    top: 0;
+}
+.sidebar__nav {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    font-size: smaller;
+    text-decoration: none;
+}
+
+.sidebar__logo {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: large;
+    padding: 25px 15px 15px 15px;
+    font-weight: bold;
+}
+
+.sidebar__nav--link {
+    padding: 5px;
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    gap: 10px;
+}
+
+.sidebar__menu {
+    padding: 15px 0px 0px 0px;
+}
+.sidebar__menu--title {
+    font-size: smaller;
+    padding: 15px;
+}

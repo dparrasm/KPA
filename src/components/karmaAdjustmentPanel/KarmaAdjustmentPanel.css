@@ -1,0 +1,81 @@
+.karma-adjustment-panel {
+    display: grid;
+    width: 90%;
+    border: 1px solid #D1D1D1;
+    border-radius: 0.3rem;
+    box-shadow: 0px 30px 60px 0px rgba(130, 130, 130, 0.1);
+    outline: none;
+    padding: 10px;
+}
+
+.karma-adjustment-panel__columns {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    grid-gap: 10px;
+    padding-bottom: 10px;
+}
+
+.karma-adjustment-panel__incidences-list {
+    list-style: none;
+    display: flex;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.karma-adjustment-panel__incidences {
+    padding-left: 10px;
+}
+
+.karma-adjustment-panel__content {
+    border-top: 1px solid #D1D1D1;
+    padding: 10px;
+}
+
+.karma-adjustment-panel__header {
+    padding: 10px;
+}
+
+.karma-adjustment-panel__header-user {
+    font-size: 1rem;
+    display: flex;
+    gap: 10px;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.karma-adjustment-panel__karma-points {
+        background: #DFF9FF;
+        height: 115px;
+        width: 140px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        line-height: 0;
+        border-radius: 8px;
+}
+
+.karma-adjustment-panel__karma-points-value {
+    font-size: xx-large;
+    line-height: 0;
+}
+
+.karma-adjustment-panel__incidences-title,
+.karma-adjustment-panel__karma-points-title {
+    font-size: 1rem;
+}
+
+ul {
+    font-size: 0.8rem;
+}
+
+p {
+    font-size: 0.8rem;
+}
+
+.karma-adjustment-panel__buttons {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px 10px 10px 0px;
+}

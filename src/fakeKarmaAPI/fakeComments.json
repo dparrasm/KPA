@@ -1,0 +1,22 @@
+{
+  "comments": [
+    {
+      "commentId": "comment1",
+      "author": "alice.smith@example.com",
+      "karmaPoints": 20,
+      "replies": [],
+      "likes": [],
+      "warnings": ["OffTopic"],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at justo ut nisi ullamcorper sollicitudin id ac risus. Proin ut mollis dolor. Duis egestas laoreet mi vel pretium. Ut ligula purus, maximus pulvinar mauris quis, congue commodo ante. Curabitur odio ligula, sollicitudin in sem nec, sodales ullamcorper ipsum. Nunc pretium urna sit amet ligula mattis interdum. Aenean finibus tellus et dictum aliquam."
+    },
+    {
+      "commentId": "comment2",
+      "author": "john.doe@example.com",
+      "karmaPoints": 15,
+      "replies": [],
+      "likes": [],
+      "warnings": ["SuspectedDuplicateAccountActivity"],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at justo ut nisi ullamcorper sollicitudin id ac risus. Proin ut mollis dolor. Duis egestas laoreet mi vel pretium. Ut ligula purus, maximus pulvinar mauris quis, congue commodo ante. Curabitur odio ligula, sollicitudin in sem nec, sodales ullamcorper ipsum. Nunc pretium urna sit amet ligula mattis interdum. Aenean finibus tellus et dictum aliquam."
+    }
+  ]
+}
